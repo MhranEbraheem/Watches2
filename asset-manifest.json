@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Watches2/static/css/main.cf1f245d.chunk.css",
+    "main.js": "/Watches2/static/js/main.216462f0.chunk.js",
+    "main.js.map": "/Watches2/static/js/main.216462f0.chunk.js.map",
+    "runtime-main.js": "/Watches2/static/js/runtime-main.d253148e.js",
+    "runtime-main.js.map": "/Watches2/static/js/runtime-main.d253148e.js.map",
+    "static/css/2.ace36aee.chunk.css": "/Watches2/static/css/2.ace36aee.chunk.css",
+    "static/js/2.00a8097a.chunk.js": "/Watches2/static/js/2.00a8097a.chunk.js",
+    "static/js/2.00a8097a.chunk.js.map": "/Watches2/static/js/2.00a8097a.chunk.js.map",
+    "index.html": "/Watches2/index.html",
+    "precache-manifest.0774aad35a0871d6bd661520e001bdb8.js": "/Watches2/precache-manifest.0774aad35a0871d6bd661520e001bdb8.js",
+    "service-worker.js": "/Watches2/service-worker.js",
+    "static/css/2.ace36aee.chunk.css.map": "/Watches2/static/css/2.ace36aee.chunk.css.map",
+    "static/css/main.cf1f245d.chunk.css.map": "/Watches2/static/css/main.cf1f245d.chunk.css.map",
+    "static/js/2.00a8097a.chunk.js.LICENSE.txt": "/Watches2/static/js/2.00a8097a.chunk.js.LICENSE.txt",
+    "static/media/armani.jpg": "/Watches2/static/media/armani.e9763158.jpg",
+    "static/media/boss.jpg": "/Watches2/static/media/boss.a4342596.jpg",
+    "static/media/rado.jpg": "/Watches2/static/media/rado.f95cf741.jpg",
+    "static/media/rolex.jpg": "/Watches2/static/media/rolex.36b78ffa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d253148e.js",
+    "static/css/2.ace36aee.chunk.css",
+    "static/js/2.00a8097a.chunk.js",
+    "static/css/main.cf1f245d.chunk.css",
+    "static/js/main.216462f0.chunk.js"
+  ]
+}
